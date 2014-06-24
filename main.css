@@ -34,9 +34,10 @@ float: left;}
 
 p{margin-right: auto;
 	margin-left: auto;
-font-size: 40px;
-font-family: garamond;
+font-size: 36px;
+font-family: Comic Sans MS;
 color: black;
 float:right;
 padding-right: 5px;
-}
+width: 75%;
+line-height: 102%;}
