@@ -1,4 +1,4 @@
 jQueryStreetfighter
 ===================
 
-scomonty.github.io/jQueryStreetfighter/main.html
+www.scomonty.github.io/jQueryStreetfighter/main.html
